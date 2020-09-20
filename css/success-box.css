@@ -95,6 +95,10 @@ div.cards-1-para p{
 .fa-check-circle{
     color: #6dc742;
 }
+img.cards-1-img{
+    width: 100%;
+    max-width: 300px;
+}
 /*featured cards 2 section starts here*/
 div.featured-card-2{
     padding: 20px;
